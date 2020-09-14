@@ -12,6 +12,4 @@ func main() {
 
 	xs := fmt.Sprint(x)
 	fmt.Println("Teste: " + xs)
-
-	
 }
